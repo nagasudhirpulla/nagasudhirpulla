@@ -8,3 +8,15 @@
 - 👯 I’m looking to collaborate on something useful, fun and easy
 - 📫 How to reach me: nagasudhirpulla@gmail.com
 - ⚡ Fun fact: I am an Electrical Engineer from National Institute of Technology Warangal (NITW), India
+
+<div>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nagasudhirpulla&show_icons=true&theme=dark" alt="ardalis" />
+<div/>
+<br />
+  
+<div>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nagasudhirpulla&layout=compact&hide=html&theme=dark" alt="ardalis" />
+<div/>
+<br />
+
+![Visitors since 11 Nov 2020](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=nagasudhirpulla&repo=nagasudhirpulla&countColor=%237B1E7A)
